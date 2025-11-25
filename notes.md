@@ -74,7 +74,10 @@ each of the profile will have a different risk contraints (%)
 - analyze the returns of each company 
 - analyze the risk of each stock (SD)
 - optimization based on the returns and risks for each profile
-- run some sensitivity analysis / monte carlo 
+- run some sensitivity analysis to each of the portfolio, what happens if we change how much risk i'm willing to take on
 
 --- 
 
+use the historical variance / sd to measure the risk
+
+(to take this to the next level: use time-series and simulate)
