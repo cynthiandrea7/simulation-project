@@ -81,3 +81,5 @@ each of the profile will have a different risk contraints (%)
 use the historical variance / sd to measure the risk
 
 (to take this to the next level: use time-series and simulate)
+# right now we just average them out over 5 years
+# alternatively we can assign more weights to recent years
